@@ -1,8 +1,8 @@
 <?php
 // Setting token bot API
 // Token didapatkan dari melakukan pembuatan bot pada BotFather ditelegram
-$botToken = "857676443:AAG8OByR5grpIppaZFab5CsecomW7reTd5s";
-$IdBot = "Bangun11_bot";
+$botToken = " "; // your token
+$IdBot = " "; // name bot
 // Base Url untuk mengakses API dari telegram bot
 $website = "https://api.telegram.org/bot".$botToken;
 // Mengambil informasi dari webhook, informasi yang didapat akan diparse dan dimasukkan kedalam variable $message
